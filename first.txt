@@ -1,1 +1,2 @@
 This is my first test file to test git.
+This is my second test file to test git.
